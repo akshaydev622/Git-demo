@@ -1,4 +1,0 @@
-this is file3.
-now we add an another file.
-add the third line of this file.
-this line no. forth.
